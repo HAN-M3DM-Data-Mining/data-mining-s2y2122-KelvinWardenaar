@@ -18,12 +18,10 @@ library(class)
 library(caret)
 ```
 
----
-
 Choose a suitable dataset from [this](https://github.com/HAN-M3DM-Data-Mining/assignments/tree/master/datasets) folder and train  your own kNN model. Follow all the steps from the CRISP-DM model.
 
 
-## Business Understanding
+## Business Understanding!
 text and code here
 
 ## Data Understanding
